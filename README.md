@@ -74,3 +74,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=saqeeb afridi &show_icons=true&theme=radical" alt="GitHub stats for Saqeeb Afridi" />
 </p>
 
+
+<div align="center" style="position: relative; display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/4e9e797b-b4e9-4aad-b573-e23c1f3e2733" alt="My GIF" style="width: 100%; height: auto;">
+  <h1 style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); color: white; background-color: rgba(0, 0, 0, 0.6); padding: 10px; border-radius: 10px;">
+    Hi 👋, I'm Saqeeb Afridi
+  </h1>
+</div>
+
+
