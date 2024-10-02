@@ -1,9 +1,12 @@
 <!-- Add the GIF at the top of the README -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4e9e797b-b4e9-4aad-b573-e23c1f3e2733" alt="animated gif" width="700" height="600" />
-</p>
+<div align="center" style="position: relative; display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/4e9e797b-b4e9-4aad-b573-e23c1f3e2733" alt="My GIF" style="width: 100%; height: auto;">
+  <h1 style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); color: white; background-color: rgba(0, 0, 0, 0.6); padding: 10px; border-radius: 10px;">
+    Hi 👋, I'm Saqeeb Afridi
+  </h1>
+</div>
 
-<h1 align="center">Hi 👋, I'm Saqeeb Afridi</h1>
+
 <h3 align="center">"Aspiring Cloud Engineer | Passionate About Learning Cloud Technologies and Solutions"</h3>
 
 - 🔭 I’m currently working on [https://github.com/fossial/website](https://github.com/fossial/website)
@@ -75,11 +78,5 @@
 </p>
 
 
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="https://github.com/user-attachments/assets/4e9e797b-b4e9-4aad-b573-e23c1f3e2733" alt="My GIF" style="width: 100%; height: auto;">
-  <h1 style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); color: white; background-color: rgba(0, 0, 0, 0.6); padding: 10px; border-radius: 10px;">
-    Hi 👋, I'm Saqeeb Afridi
-  </h1>
-</div>
 
 
