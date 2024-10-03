@@ -1,3 +1,4 @@
+![0f0d27679212859f34a83ba221dcddee](https://github.com/user-attachments/assets/a394de71-0c9e-4629-9224-8ec2ce96652c)
 <!-- Add the GIF at the top of the README -->
 <div align="center" style="position: relative; display: inline-block;">
   <img src="https://github.com/user-attachments/assets/4e9e797b-b4e9-4aad-b573-e23c1f3e2733" alt="My GIF" style="width: 100%; height: auto;">
